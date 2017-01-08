@@ -1,22 +1,22 @@
 {
-    "name": "theme-duotone-denim",
-    "displayName": "Duotone Denim",
-    "description": "Dark theme insipired by Atom's Duotone Denim syntax",
-    "version": "0.0.1",
-    "publisher": "georapbox",
-    "engines": {
-        "vscode": "^1.5.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Duotone Denim",
-                "uiTheme": "vs-dark",
-                "path": "./themes/DuotoneDenim.tmTheme"
-            }
-        ]
-    }
+  "name": "theme-duotone-denim",
+  "displayName": "Duotone Denim",
+  "description": "Dark theme insipired by Atom's Duotone Denim syntax",
+  "version": "0.0.1",
+  "publisher": "georapbox",
+  "engines": {
+    "vscode": "^1.5.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Duotone Denim",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DuotoneDenim.tmTheme"
+      }
+    ]
+  }
 }
