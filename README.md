@@ -1,13 +1,10 @@
-# README
-## This is the README for your extension "theme-duotone-denim"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Duotone Denim Theme
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+A dark theme for Visual Studio Code inspired by Atom's Duotone Denim syntax theme.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Screenshot
 
-**Enjoy!**
+![](screenshot.png)
+
+## More Information
+* [Github repository](https://github.com/georapbox/VSCode-Duotone-Denim-Theme)
