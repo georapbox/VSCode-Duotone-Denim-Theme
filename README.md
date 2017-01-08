@@ -1,6 +1,6 @@
 # Duotone Denim Alternate Theme
 
-A variation of Atom's Duotone Denim syntax theme for Visual Studio Code.
+A variation of Atom's [Duotone Denim](https://atom.io/themes/duotone-denim-syntax) syntax theme for Visual Studio Code.
 
 ## Screenshot
 
