@@ -4,7 +4,7 @@ A dark theme for Visual Studio Code inspired by Atom's Duotone Denim syntax them
 
 ## Screenshot
 
-![](screenshot.png)
+![](https://raw.githubusercontent.com/georapbox/VSCode-Duotone-Denim-Theme/master/screenshot.png)
 
 ## More Information
 * [Github repository](https://github.com/georapbox/VSCode-Duotone-Denim-Theme)
