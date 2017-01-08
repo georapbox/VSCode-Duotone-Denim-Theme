@@ -1,10 +1,11 @@
-# Duotone Denim Theme
+# Duotone Denim Alternate Theme
 
-A dark theme for Visual Studio Code inspired by Atom's Duotone Denim syntax theme.
+A variation of Atom's Duotone Denim syntax theme for Visual Studio Code.
 
 ## Screenshot
 
 ![](https://raw.githubusercontent.com/georapbox/VSCode-Duotone-Denim-Theme/master/screenshot.png)
 
-## More Information
-* [Github repository](https://github.com/georapbox/VSCode-Duotone-Denim-Theme)
+## License
+
+The MIT License (MIT)

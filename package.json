@@ -1,7 +1,7 @@
 {
-  "name": "theme-duotone-denim",
-  "displayName": "Duotone Denim",
-  "description": "Dark theme insipired by Atom's Duotone Denim syntax",
+  "name": "theme-duotone-denim-alternate",
+  "displayName": "Duotone Denim Alternate",
+  "description": "A variation of Atom's Duotone Denim syntax theme for Visual Studio Code",
   "version": "0.0.1",
   "publisher": "georapbox",
   "engines": {
@@ -13,9 +13,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Duotone Denim",
+        "label": "Duotone Denim Alternate",
         "uiTheme": "vs-dark",
-        "path": "./themes/DuotoneDenim.tmTheme"
+        "path": "./themes/duotone-denim-alternate.tmTheme"
       }
     ]
   }
